@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: 4c426677e3e243f468554f7e6b940e6f
+timeCreated: 1440292400
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Idle_Down_0
+    21300002: Idle_Down_1
+    21300004: Walk_Down_0
+    21300006: Walk_Down_1
+    21300008: Idle_Up_0
+    21300010: Idle_Up_1
+    21300012: Walk_Up_0
+    21300014: Walk_Up_1
+    21300016: Idle_Right_0
+    21300018: Idle_Right_1
+    21300020: Walk_Right_0
+    21300022: Walk_Right_1
+    21300024: Grass
+    21300026: Idle_Left_0
+    21300028: Idle_Left_1
+    21300030: Walk_Left_0
+    21300032: Walk_Left_1
+    21300034: Swim_Down_0
+    21300036: Swim_Down_1
+    21300038: Swim_Up_0
+    21300040: Swim_Up_1
+    21300042: Swim_Right_0
+    21300044: Swim_Right_1
+    21300046: Swim_Left_0
+    21300048: Swim_Left_1
+    21300050: Default
+    21300052: Sword
+    21300054: Pickaxe
+    21300056: Axe
+    21300058: Spear
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 100
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 10
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Default
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sword
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 6, w: 6}
+    - name: Pickaxe
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 8, w: 8}
+    - name: Spear
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 5, w: 5}
+  spritePackingTag: sprite
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

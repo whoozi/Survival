@@ -1,0 +1,12 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Bb]uild/
+/Packages/
+/[Oo]bj/
+/.vs/
+
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.pdb
